@@ -1,0 +1,29 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Totally new, and original concept for online shopping.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FourEyeSamurai/bamazon.git"
+  },
+  "keywords": [
+    "bamazon",
+    "shopping",
+    "online",
+    "notamazon"
+  ],
+  "author": "Chris Leeson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FourEyeSamurai/bamazon/issues"
+  },
+  "homepage": "https://github.com/FourEyeSamurai/bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "prompt": "^1.0.0"
+  }
+}
